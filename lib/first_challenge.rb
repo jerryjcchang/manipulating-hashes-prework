@@ -13,7 +13,12 @@ def first_challenge
     }
   }
 
-contacts.each do |
+contacts.each do |person, data|
+  
+  data.each do |attribute, value|
+    
+    if attribute == :favorite_icecream_flavors
+      values.each do |
 
 contacts
 end
