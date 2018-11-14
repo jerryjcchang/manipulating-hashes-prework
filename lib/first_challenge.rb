@@ -19,4 +19,3 @@ contacts = {
 
 contacts
 end
-
